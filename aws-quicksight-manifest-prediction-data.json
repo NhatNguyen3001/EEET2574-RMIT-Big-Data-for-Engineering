@@ -1,0 +1,14 @@
+{
+    "fileLocations": [
+        {
+            "URIs": [
+                "https://big-data-rmit-asm3.s3.amazonaws.com/predictions_data/predictions.csv"
+            ]
+        }
+    ],
+    "globalUploadSettings": {
+        "delimiter": ",",
+        "textqualifier": "'",
+        "containsHeader": "true"
+    }
+}
